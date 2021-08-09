@@ -16,6 +16,7 @@
     <color name="yellow">#FFC114</color>
     <color name="green">#00C980</color>
 
+    <!-- LIGHT THEME -->
 
     // Custom Chip Style
     <color name="checkChipBackgroundColor">#206200EA</color>
@@ -32,4 +33,6 @@
     <color name="statusBarColor">@color/colorPrimaryDark</color>
     <color name="contextualStatusBarColor">@color/darker</color>
     <color name="contextualActionBarColor">@color/dark</color>
+
+
 </resources>
